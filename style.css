@@ -3,7 +3,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
     background: linear-gradient(to right, rgb(3, 0, 30), rgb(115, 3, 192), rgb(236, 56, 188), rgb(253, 239, 249));
 }
 
@@ -38,3 +38,8 @@ body{
     font-family: sans-serif;
     cursor: pointer;
 }
+
+/* p{
+     display: flex;
+
+} */
